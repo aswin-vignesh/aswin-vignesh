@@ -1,8 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aswin Vignesh
+<h1 style="text-align: center;">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Aswin Vignesh</h1>
 =====================================================================================================================================
 
-Full-Stack Web Developer
-------------------------
+<h3 style="text-align: center;">I'm passionate in Full-Stack Web Development</h3>
+--------------------------------------------
 
 Hello! I'm a passionate junior full-stack web developer with a strong foundation in web development and a knack for problem-solving. - My journey began as a freelancer, where I honed my skills in web design and frontend development using HTML, CSS, and JavaScript. Over time, I ventured into the world of programming, starting with Python and later diving into Java. - My dedication to continuous improvement led me to tackle coding challenges on platforms like LeetCode and GeeksforGeeks, sharpening my algorithmic thinking and problem-solving abilities. I thrive on overcoming challenges and learning new technologies. - Currently, I'm excited to be developing full-stack applications using the MERN (MongoDB, Express, React, Node.js) stack. This journey has allowed me to bring together my frontend and backend skills to create dynamic and interactive web applications. I'm always eager to expand my knowledge, collaborate on exciting projects, and contribute to innovative solutions. Let's connect and explore opportunities to work together!
 
